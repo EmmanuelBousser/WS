@@ -24,9 +24,11 @@
   </dependencies>
   <modules>
   	<module>helloworldmvc.controller</module>
-  	<module>helloworldmvc.model</module>
+  	
   	<module>helloworldmvc.view</module>
-  	<module>helloworldmvc.contract</module>
+  	
   	<module>helloworldmvc.main</module>
+  	<module>helloworldmvc.contract</module>
+  	<module>helloworldmvc.model</module>
   </modules>
 </project>
